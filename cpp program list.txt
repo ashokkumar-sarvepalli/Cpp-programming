@@ -1,0 +1,134 @@
+C++ Course Content
+1.	Introduction 
+Programming basics – RAM- Processor- Binary to Decimal- Decimal to Binary – ASCII - Data types
+
+2.	Input/output
+Standard input and output 
+•	Program - Hello world program
+
+3.	Operators 
+Arithmetic- logical-relational operators –unary operators 
+•	Program – Sum of two numbers
+•	Program – Square of a number
+•	Program – Fahrenheit to Celsius
+•	Program – Roots of a quadratic equation
+•	Program – Finding quotient and Remainder of a number
+
+4.	Branching
+           If condition – If else – Nested if – else if – switch case – break
+•	Program – Check the given number is even or odd
+•	Program – Check the given number is divisible by both 3 and 5
+•	Program – Find the modulus of a number
+•	Program – Check the given number is positive or negative
+•	Program – Student Grade Calculation
+•	Program – Generate Electricity bill
+•	Program – Menu driven Calculator using Switch case
+
+5.	Looping
+      While – do while loop – For loop –nested loops - break – continue
+•	Program – Find the sum of n natural numbers
+•	Program – Find the sum of even n natural numbers
+•	Program – Find the factors of a given number
+•	Program – Find the factorial of a number
+•	Program – Print the Fibonacci series up to particular limit
+•	Program – Find the HCF of two numbers
+•	Program – Find the LCM of two numbers
+•	Program – Find the sum of the digits of a number
+•	Program – Reverse a given number
+•	Program – Check whether the given number is a Armstrong number
+•	Program – Series Problem 1 (1+X+X^2+X^3…X^N)
+•	Program – Series problem 2 (1+ X/1! + X^2/2! + X^3/3! +…X^N/N!)
+•	Program – Check whether the given number is a prime number or not
+•	Program – Menu driven calculator full version using loop.
+•	Program – Print multiplication table
+•	Program – Printing patterns(Drawing rectangle)
+•	Program – Printing patterns(Drawing Right angle triangle)
+•	Program – Printing patterns(Drawing Pascal’s triangle)
+
+6.	Arrays
+Array declaration – dimension – 1D arrays – 2 D arrays –Char Array – String- Matrix
+•	Program – Sum of elements in an array
+•	Program – Swap adjacent elements in an array
+•	Program – Swap first half elements with second half in an array
+•	Program – Even numbers divide by 2 and odd numbers multiply by 2 in an array
+•	Program – Even Indexes divide by 2 and odd indexes multiply by 2 in an array
+•	Program – Find the length of the sentence in a char array
+•	Program – Find the given char array is palindrome or not.
+•	Program – Compare the equality of two character arrays
+•	Program – Convert a character array to upper case
+•	Program – Sum of left and right diagonals in a 2D array(matrix)
+•	Program – Sum of lower and upper triangles in a 2D array(matrix)
+•	Program – Sum and difference of two matrices
+•	Program – Matrix multiplication
+•	Program – Find an employee with the given employee information
+
+7.	Functions
+Inbuilt functions – character functions – string functions – user defined functions – function prototype – function declaration- call by value – call by reference
+•	Program – Menu driven calculator modified version using functions
+•	Program – Prime number program conversion using functions
+•	Program – Palindrome program of character word conversion using functions
+•	Program – Call by value and call by reference using functions
+
+8.	Structures
+          Heterogeneous user define data type – structure declaration – usage – initialization – passing structure to a function and returning structure from a function
+•	Program – Employee records storage and retrieval program using structures
+•	Program – Comparison of two dates using structures
+•	Program- Addition of Kilometer and meter with another Kilometer and meter using structures
+
+9.	Pointers
+      Pointer variables – character pointers pointing to an array – integer pointers
+•	Program – 5 to 10 sample output questions on pointers
+
+10.	Classes
+     Class- Object-Template- Access Specifiers-private-public-protected-OOPS principles
+•	Program- Sample Employee class with instance variables.
+
+11.	Encapsulation – Constructor-Destructor
+     Encapsulation – Setters – Getters – Constructor overloading – copy constructor-public methods- destructor
+•	Program – Sample Box class with setter and getters with constructor overloading
+•	Program – Sample Customer class with setters and getters with constructor overloading
+
+12.	Inheritance
+    Inheritance- types-simple-multilevel-hierarchal-multiple-hybrid-private-public-protected
+•	Program – Simple Inheritance Example
+•	Program – Multilevel Inheritance Example
+•	Program – hierarchal Inheritance Example
+•	Program – Multiple and hybrid Inheritance Example
+
+13.	Polymorphism
+     Polymorphism –Concepts- overloading-Overriding
+•	Program – sample program to explain overloading
+•	Program – sample program to explain overriding
+•	Program – sample program to explain polymorphism
+
+14.	File Handling
+    Text Files – Binary Files – Read-Write- Append- File Pointers
+•	Program –Count the number of characters in a text file.
+•	Program – Count the occurrence of particular word in a text file
+•	Program – Count the number of lines starting with a particular letter in a text file
+•	Program – Binary file insertion of a record
+•	Program – Binary file deletion of a record
+•	Program – Binary file modification of a record
+
+
+
+
+
+
+15.	Templates
+Class Template – Function Template
+•	Program – Sample code explaining class template.
+•	Program – Sample code explain function template (swap program)
+
+16.	Data Structures
+List-Stack-Queue-Linked Implementation and array Implementation
+•	Program – List using array
+•	Program – Linked list
+•	Program – Stack using array
+•	Program – Linked stack
+•	Program – Queue using Array
+•	Program – Linked Queue 
+
+
+
+
