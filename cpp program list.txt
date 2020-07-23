@@ -1,114 +1,114 @@
-C++ Course Content
+Programming Course Content
 1.	Introduction 
-Programming basics – RAM- Processor- Binary to Decimal- Decimal to Binary – ASCII - Data types
+Programming basics â€“ RAM- Processor- Binary to Decimal- Decimal to Binary â€“ ASCII - Data types
 
 2.	Input/output
 Standard input and output 
-•	Program - Hello world program
+â€¢	Program - Hello world program
 
 3.	Operators 
-Arithmetic- logical-relational operators –unary operators 
-•	Program – Sum of two numbers
-•	Program – Square of a number
-•	Program – Fahrenheit to Celsius
-•	Program – Roots of a quadratic equation
-•	Program – Finding quotient and Remainder of a number
+Arithmetic- logical-relational operators â€“unary operators 
+â€¢	Program â€“ Sum of two numbers
+â€¢	Program â€“ Square of a number
+â€¢	Program â€“ Fahrenheit to Celsius
+â€¢	Program â€“ Roots of a quadratic equation
+â€¢	Program â€“ Finding quotient and Remainder of a number
 
 4.	Branching
-           If condition – If else – Nested if – else if – switch case – break
-•	Program – Check the given number is even or odd
-•	Program – Check the given number is divisible by both 3 and 5
-•	Program – Find the modulus of a number
-•	Program – Check the given number is positive or negative
-•	Program – Student Grade Calculation
-•	Program – Generate Electricity bill
-•	Program – Menu driven Calculator using Switch case
+           If condition â€“ If else â€“ Nested if â€“ else if â€“ switch case â€“ break
+â€¢	Program â€“ Check the given number is even or odd
+â€¢	Program â€“ Check the given number is divisible by both 3 and 5
+â€¢	Program â€“ Find the modulus of a number
+â€¢	Program â€“ Check the given number is positive or negative
+â€¢	Program â€“ Student Grade Calculation
+â€¢	Program â€“ Generate Electricity bill
+â€¢	Program â€“ Menu driven Calculator using Switch case
 
 5.	Looping
-      While – do while loop – For loop –nested loops - break – continue
-•	Program – Find the sum of n natural numbers
-•	Program – Find the sum of even n natural numbers
-•	Program – Find the factors of a given number
-•	Program – Find the factorial of a number
-•	Program – Print the Fibonacci series up to particular limit
-•	Program – Find the HCF of two numbers
-•	Program – Find the LCM of two numbers
-•	Program – Find the sum of the digits of a number
-•	Program – Reverse a given number
-•	Program – Check whether the given number is a Armstrong number
-•	Program – Series Problem 1 (1+X+X^2+X^3…X^N)
-•	Program – Series problem 2 (1+ X/1! + X^2/2! + X^3/3! +…X^N/N!)
-•	Program – Check whether the given number is a prime number or not
-•	Program – Menu driven calculator full version using loop.
-•	Program – Print multiplication table
-•	Program – Printing patterns(Drawing rectangle)
-•	Program – Printing patterns(Drawing Right angle triangle)
-•	Program – Printing patterns(Drawing Pascal’s triangle)
+      While â€“ do while loop â€“ For loop â€“nested loops - break â€“ continue
+â€¢	Program â€“ Find the sum of n natural numbers
+â€¢	Program â€“ Find the sum of even n natural numbers
+â€¢	Program â€“ Find the factors of a given number
+â€¢	Program â€“ Find the factorial of a number
+â€¢	Program â€“ Print the Fibonacci series up to particular limit
+â€¢	Program â€“ Find the HCF of two numbers
+â€¢	Program â€“ Find the LCM of two numbers
+â€¢	Program â€“ Find the sum of the digits of a number
+â€¢	Program â€“ Reverse a given number
+â€¢	Program â€“ Check whether the given number is a Armstrong number
+â€¢	Program â€“ Series Problem 1 (1+X+X^2+X^3â€¦X^N)
+â€¢	Program â€“ Series problem 2 (1+ X/1! + X^2/2! + X^3/3! +â€¦X^N/N!)
+â€¢	Program â€“ Check whether the given number is a prime number or not
+â€¢	Program â€“ Menu driven calculator full version using loop.
+â€¢	Program â€“ Print multiplication table
+â€¢	Program â€“ Printing patterns(Drawing rectangle)
+â€¢	Program â€“ Printing patterns(Drawing Right angle triangle)
+â€¢	Program â€“ Printing patterns(Drawing Pascalâ€™s triangle)
 
 6.	Arrays
-Array declaration – dimension – 1D arrays – 2 D arrays –Char Array – String- Matrix
-•	Program – Sum of elements in an array
-•	Program – Swap adjacent elements in an array
-•	Program – Swap first half elements with second half in an array
-•	Program – Even numbers divide by 2 and odd numbers multiply by 2 in an array
-•	Program – Even Indexes divide by 2 and odd indexes multiply by 2 in an array
-•	Program – Find the length of the sentence in a char array
-•	Program – Find the given char array is palindrome or not.
-•	Program – Compare the equality of two character arrays
-•	Program – Convert a character array to upper case
-•	Program – Sum of left and right diagonals in a 2D array(matrix)
-•	Program – Sum of lower and upper triangles in a 2D array(matrix)
-•	Program – Sum and difference of two matrices
-•	Program – Matrix multiplication
-•	Program – Find an employee with the given employee information
+Array declaration â€“ dimension â€“ 1D arrays â€“ 2 D arrays â€“Char Array â€“ String- Matrix
+â€¢	Program â€“ Sum of elements in an array
+â€¢	Program â€“ Swap adjacent elements in an array
+â€¢	Program â€“ Swap first half elements with second half in an array
+â€¢	Program â€“ Even numbers divide by 2 and odd numbers multiply by 2 in an array
+â€¢	Program â€“ Even Indexes divide by 2 and odd indexes multiply by 2 in an array
+â€¢	Program â€“ Find the length of the sentence in a char array
+â€¢	Program â€“ Find the given char array is palindrome or not.
+â€¢	Program â€“ Compare the equality of two character arrays
+â€¢	Program â€“ Convert a character array to upper case
+â€¢	Program â€“ Sum of left and right diagonals in a 2D array(matrix)
+â€¢	Program â€“ Sum of lower and upper triangles in a 2D array(matrix)
+â€¢	Program â€“ Sum and difference of two matrices
+â€¢	Program â€“ Matrix multiplication
+â€¢	Program â€“ Find an employee with the given employee information
 
 7.	Functions
-Inbuilt functions – character functions – string functions – user defined functions – function prototype – function declaration- call by value – call by reference
-•	Program – Menu driven calculator modified version using functions
-•	Program – Prime number program conversion using functions
-•	Program – Palindrome program of character word conversion using functions
-•	Program – Call by value and call by reference using functions
+Inbuilt functions â€“ character functions â€“ string functions â€“ user defined functions â€“ function prototype â€“ function declaration- call by value â€“ call by reference
+â€¢	Program â€“ Menu driven calculator modified version using functions
+â€¢	Program â€“ Prime number program conversion using functions
+â€¢	Program â€“ Palindrome program of character word conversion using functions
+â€¢	Program â€“ Call by value and call by reference using functions
 
 8.	Structures
-          Heterogeneous user define data type – structure declaration – usage – initialization – passing structure to a function and returning structure from a function
-•	Program – Employee records storage and retrieval program using structures
-•	Program – Comparison of two dates using structures
-•	Program- Addition of Kilometer and meter with another Kilometer and meter using structures
+          Heterogeneous user define data type â€“ structure declaration â€“ usage â€“ initialization â€“ passing structure to a function and returning structure from a function
+â€¢	Program â€“ Employee records storage and retrieval program using structures
+â€¢	Program â€“ Comparison of two dates using structures
+â€¢	Program- Addition of Kilometer and meter with another Kilometer and meter using structures
 
 9.	Pointers
-      Pointer variables – character pointers pointing to an array – integer pointers
-•	Program – 5 to 10 sample output questions on pointers
+      Pointer variables â€“ character pointers pointing to an array â€“ integer pointers
+â€¢	Program â€“ 5 to 10 sample output questions on pointers
 
 10.	Classes
      Class- Object-Template- Access Specifiers-private-public-protected-OOPS principles
-•	Program- Sample Employee class with instance variables.
+â€¢	Program- Sample Employee class with instance variables.
 
-11.	Encapsulation – Constructor-Destructor
-     Encapsulation – Setters – Getters – Constructor overloading – copy constructor-public methods- destructor
-•	Program – Sample Box class with setter and getters with constructor overloading
-•	Program – Sample Customer class with setters and getters with constructor overloading
+11.	Encapsulation â€“ Constructor-Destructor
+     Encapsulation â€“ Setters â€“ Getters â€“ Constructor overloading â€“ copy constructor-public methods- destructor
+â€¢	Program â€“ Sample Box class with setter and getters with constructor overloading
+â€¢	Program â€“ Sample Customer class with setters and getters with constructor overloading
 
 12.	Inheritance
     Inheritance- types-simple-multilevel-hierarchal-multiple-hybrid-private-public-protected
-•	Program – Simple Inheritance Example
-•	Program – Multilevel Inheritance Example
-•	Program – hierarchal Inheritance Example
-•	Program – Multiple and hybrid Inheritance Example
+â€¢	Program â€“ Simple Inheritance Example
+â€¢	Program â€“ Multilevel Inheritance Example
+â€¢	Program â€“ hierarchal Inheritance Example
+â€¢	Program â€“ Multiple and hybrid Inheritance Example
 
 13.	Polymorphism
-     Polymorphism –Concepts- overloading-Overriding
-•	Program – sample program to explain overloading
-•	Program – sample program to explain overriding
-•	Program – sample program to explain polymorphism
+     Polymorphism â€“Concepts- overloading-Overriding
+â€¢	Program â€“ sample program to explain overloading
+â€¢	Program â€“ sample program to explain overriding
+â€¢	Program â€“ sample program to explain polymorphism
 
 14.	File Handling
-    Text Files – Binary Files – Read-Write- Append- File Pointers
-•	Program –Count the number of characters in a text file.
-•	Program – Count the occurrence of particular word in a text file
-•	Program – Count the number of lines starting with a particular letter in a text file
-•	Program – Binary file insertion of a record
-•	Program – Binary file deletion of a record
-•	Program – Binary file modification of a record
+    Text Files â€“ Binary Files â€“ Read-Write- Append- File Pointers
+â€¢	Program â€“Count the number of characters in a text file.
+â€¢	Program â€“ Count the occurrence of particular word in a text file
+â€¢	Program â€“ Count the number of lines starting with a particular letter in a text file
+â€¢	Program â€“ Binary file insertion of a record
+â€¢	Program â€“ Binary file deletion of a record
+â€¢	Program â€“ Binary file modification of a record
 
 
 
@@ -116,18 +116,18 @@ Inbuilt functions – character functions – string functions – user defined functi
 
 
 15.	Templates
-Class Template – Function Template
-•	Program – Sample code explaining class template.
-•	Program – Sample code explain function template (swap program)
+Class Template â€“ Function Template
+â€¢	Program â€“ Sample code explaining class template.
+â€¢	Program â€“ Sample code explain function template (swap program)
 
 16.	Data Structures
 List-Stack-Queue-Linked Implementation and array Implementation
-•	Program – List using array
-•	Program – Linked list
-•	Program – Stack using array
-•	Program – Linked stack
-•	Program – Queue using Array
-•	Program – Linked Queue 
+â€¢	Program â€“ List using array
+â€¢	Program â€“ Linked list
+â€¢	Program â€“ Stack using array
+â€¢	Program â€“ Linked stack
+â€¢	Program â€“ Queue using Array
+â€¢	Program â€“ Linked Queue 
 
 
 
